@@ -1,0 +1,5 @@
+type NewsPiece {
+    title: String!
+    url: String!
+    imageUrl: String
+}

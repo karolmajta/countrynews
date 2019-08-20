@@ -1,0 +1,5 @@
+type Continent {
+    code: ID!
+    name: String!
+    countries: [Country!]!
+}

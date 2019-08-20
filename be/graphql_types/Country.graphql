@@ -1,0 +1,7 @@
+type Country {
+    code: ID!
+    name: String!
+    native: String!
+    emoji: String!
+    news: [NewsPiece!]!
+}

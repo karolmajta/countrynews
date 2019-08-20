@@ -1,0 +1,8 @@
+enum HttpErrorCode {
+    NOT_FOUND
+}
+
+type Error {
+    _error: HttpErrorCode!
+    _message: String!
+}
