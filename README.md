@@ -42,7 +42,7 @@ python -m unittest
 ## Prerequisites
 
 You'll need NodeJS (`node` & `npm`) in a fairly recent version. There is an `.nvmrc`
-file in `fe` directory if you're a `nvm` king of guy...
+file in `fe` directory if you're a `nvm` kind of guy...
 
 ## Preparation
 
@@ -97,7 +97,7 @@ for the e2e tests.
 ```
 cd fe
 nvm use
-# nvm install # you probably did it before running the frontend
+# nm install # you probably did it before running the frontend
 npm run e2e open
 ```
 
