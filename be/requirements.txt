@@ -17,7 +17,7 @@ six==1.12.0
 starlette==0.12.7
 typing-extensions==3.7.4
 urllib3==1.25.3
-uvicorn==0.8.6
+uvicorn==0.11.7
 uvloop==0.12.2
 websockets==7.0
 yarl==1.3.0
